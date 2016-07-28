@@ -1,5 +1,5 @@
 # backbone-todos-demo
-backbone-todos-demo
+backbone todos demo
 ## **Install**
 ``` bash
 $ npm install
