@@ -1,6 +1,10 @@
 # backbone-todos-demo
 backbone-todos-demo
 ## **Install**
-`npm install`
+``` bash
+$ npm install
+```
 ## **Run**
-`npm start`
+``` bash
+$ npm start
+```
